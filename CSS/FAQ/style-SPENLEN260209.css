@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+        body {
+            font-family:"Inter", sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+            
+        }
+        header {
+            background: #486856;
+            color: #fff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #fff 3px solid;
+            text-align: center;
+            font-family:"Inter", sans-serif;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 24px;
+        }
+        .faq {
+            background: #fff;
+            padding: 20px;
+            margin-top: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .faq h2 {
+            margin-top: 0;
+        }
+        .faq dt {
+            font-weight: bold;
+            margin-top: 10px;
+        }
+        .faq dd {
+            margin: 0 0 10px 20px;
+        }
+        .neuro {
+            background: #fff;
+            padding: 20px;
+            margin-top: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .neuro h2 {
+            margin-top: 0;
+        }
+        .neuro dt {
+            font-weight: bold;
+            margin-top: 10px;
+        }
+        .neuro dd {
+            margin: 0 0 10px 20px;
+        }
+
+        .dalto {
+            background: #fff;
+            padding: 20px;
+            margin-top: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            display: inline-block;
+        }
+        .dalto h2 {
+            margin-top: 0;
+        }
+        .dalto dt {
+            font-weight: bold;
+            margin-top: 10px;
+        }
+        .dalto dd {
+            margin: 0 0 10px 20px;
+        }
+
+        .video {
+            background: #fff;
+            padding: 5px;
+            margin-top: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            text-align: center;
+            display: inline-block;
+            
+        }
